@@ -1,0 +1,10 @@
+#wrap {
+    width: 100%;
+    background-color: #FFFFFF;
+    color: #1A1617;
+    overflow-x: hidden;
+}
+
+header, section, footer {
+    margin: 0 auto;
+}
